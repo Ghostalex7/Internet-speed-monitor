@@ -38,12 +38,6 @@ cd Internet-speed-monitor
 ```bash
 pip install -r requirements.txt
 ```
-_Example `requirements.txt`:_
-```
-customtkinter
-matplotlib
-speedtest-cli
-```
 
 ### 3. Run the App
 ```bash
